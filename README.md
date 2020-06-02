@@ -21,4 +21,4 @@ List of all my data science projects
 * There are some statistic works and data cleaning process before feeding it into machine learning models, such as examining the collinearity of each variable and imputing the missing data using several method, such as logistic regression and median. 
 * The preliminary model that is presented is using logistic regression, since the purpose is just to determine the most important variable toward the model. 
 * There are several works to done such as creating the model to predict the probability of receiving vaccine and several other statistical examination in order to create the model as robust as possible.
-* This project can be seen in nbviewer which I put the link here. [nbviewer](https://nbviewer.jupyter.org/github/dzelrahman/vaccine_receiver_predictor/blob/master/flu_shot_learning/new_attempt_data_exp.ipynb). The notebook is written in Bahasa Indonesia.
+* This project can be seen in nbviewer which I put the link [here](https://nbviewer.jupyter.org/github/dzelrahman/vaccine_receiver_predictor/blob/master/flu_shot_learning/new_attempt_data_exp.ipynb). The notebook is written in Bahasa Indonesia.
